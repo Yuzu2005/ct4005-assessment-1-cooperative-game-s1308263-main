@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 530c5e7b91514cc44a462a568c70a7d1
+  - enabled: 1
+    path: Assets/Scenes/Ed's Scene Test/Level1.unity
+    guid: 08c69faa76e985d4580105694d191266
+  - enabled: 1
+    path: Assets/Scenes/Ed's Scene Test/Level2.unity
+    guid: 607b549d267105748a4c1781abfb5ac2
+  - enabled: 1
+    path: Assets/Scenes/Ed's Scene Test/Level3(BossFight).unity
+    guid: 4845529cdcca8a641aadea26ece2cb3c
+  - enabled: 1
+    path: Assets/Scenes/GameOverWin.unity
+    guid: 5ce9da04ebd26f64bb42ef035cb9cba7
+  - enabled: 1
+    path: Assets/Scenes/GameOverLose.unity
+    guid: b8aab087fb5e8a342a87d2ad630ce54c
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: a4379dbff64b6414da445223a04e35be,
+      type: 2}
